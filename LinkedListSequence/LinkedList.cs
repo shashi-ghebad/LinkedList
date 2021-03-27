@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LinkedListDemo
+namespace LinkedListSequence
 {
     class LinkedList
     {
@@ -16,12 +16,8 @@ namespace LinkedListDemo
                 this.head = node;
             else
             {
-                Node temp = head;
-                while (temp.next != null)
-                {
-                    temp = temp.next;
-                }
-                temp.next = node;
+                node.next = head;
+                head = node;
             }
             Console.WriteLine("{0} inserted into the linked list", node.data);
         }
