@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppendLinkedList", "AppendL
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertNodes", "InsertNodes\InsertNodes.csproj", "{B7736064-284D-49B0-8119-D633F4A7CF6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteFirstElement", "DeleteFirstElement\DeleteFirstElement.csproj", "{1488938C-5271-4F97-82DB-3A27A01F4C17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeleteFirstElement", "DeleteFirstElement\DeleteFirstElement.csproj", "{1488938C-5271-4F97-82DB-3A27A01F4C17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteLastElement", "DeleteLastElement\DeleteLastElement.csproj", "{A8ACF321-B700-44E4-A599-E186883C70B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1488938C-5271-4F97-82DB-3A27A01F4C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1488938C-5271-4F97-82DB-3A27A01F4C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1488938C-5271-4F97-82DB-3A27A01F4C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8ACF321-B700-44E4-A599-E186883C70B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8ACF321-B700-44E4-A599-E186883C70B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8ACF321-B700-44E4-A599-E186883C70B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8ACF321-B700-44E4-A599-E186883C70B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
