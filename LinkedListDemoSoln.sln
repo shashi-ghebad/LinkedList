@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchLinkedList", "SearchL
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertElementInBetwNodes", "InsertElementInBetwNodes\InsertElementInBetwNodes.csproj", "{319B2AD7-5D5C-4CD5-8D56-3331A7FCBDDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteElementInNodes", "DeleteElementInNodes\DeleteElementInNodes.csproj", "{02CE4C8C-297A-4745-9D8D-D330A2E04CCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeleteElementInNodes", "DeleteElementInNodes\DeleteElementInNodes.csproj", "{02CE4C8C-297A-4745-9D8D-D330A2E04CCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderedLinkedList", "OrderedLinkedList\OrderedLinkedList.csproj", "{66648E38-CDA2-4EE4-83E9-086D8B6F3294}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{02CE4C8C-297A-4745-9D8D-D330A2E04CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02CE4C8C-297A-4745-9D8D-D330A2E04CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02CE4C8C-297A-4745-9D8D-D330A2E04CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66648E38-CDA2-4EE4-83E9-086D8B6F3294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66648E38-CDA2-4EE4-83E9-086D8B6F3294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66648E38-CDA2-4EE4-83E9-086D8B6F3294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66648E38-CDA2-4EE4-83E9-086D8B6F3294}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
