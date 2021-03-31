@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DeleteElementInNodes
+namespace LinkedListDemo
 {
     public class Node
     {
