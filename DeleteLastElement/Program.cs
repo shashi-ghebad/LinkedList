@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace DeleteFirstElement
+namespace DeleteLastElement
 {
     class Program
     {
@@ -12,7 +15,7 @@ namespace DeleteFirstElement
             link.Add(70);
             link.Insert(1, 30);
             link.Display();
-            link.RemoveFirstNode();
+            link.RemoveLastNode();
             link.Display();
             Console.ReadKey();
         }
