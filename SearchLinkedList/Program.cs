@@ -1,12 +1,13 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DeleteLastElement
+namespace SearchLinkedList
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -15,8 +16,7 @@ namespace DeleteLastElement
             link.Add(70);
             link.Insert(1, 30);
             link.Display();
-            link.RemoveLastNode();
-            link.Display();
+            link.Search(30);
             Console.ReadKey();
         }
     }
