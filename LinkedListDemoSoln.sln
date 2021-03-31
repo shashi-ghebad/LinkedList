@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListSequence", "Linke
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppendLinkedList", "AppendLinkedList\AppendLinkedList.csproj", "{3FD4462C-517F-4CA1-ACB7-70DB11636EA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertNodes", "InsertNodes\InsertNodes.csproj", "{B7736064-284D-49B0-8119-D633F4A7CF6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertNodes", "InsertNodes\InsertNodes.csproj", "{B7736064-284D-49B0-8119-D633F4A7CF6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteFirstElement", "DeleteFirstElement\DeleteFirstElement.csproj", "{1488938C-5271-4F97-82DB-3A27A01F4C17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B7736064-284D-49B0-8119-D633F4A7CF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7736064-284D-49B0-8119-D633F4A7CF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7736064-284D-49B0-8119-D633F4A7CF6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1488938C-5271-4F97-82DB-3A27A01F4C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1488938C-5271-4F97-82DB-3A27A01F4C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1488938C-5271-4F97-82DB-3A27A01F4C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1488938C-5271-4F97-82DB-3A27A01F4C17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
