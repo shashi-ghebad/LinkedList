@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeleteFirstElement", "Delet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeleteLastElement", "DeleteLastElement\DeleteLastElement.csproj", "{A8ACF321-B700-44E4-A599-E186883C70B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchLinkedList", "SearchLinkedList\SearchLinkedList.csproj", "{621360B7-CC01-4B0C-A8FA-19D5ADF346C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchLinkedList", "SearchLinkedList\SearchLinkedList.csproj", "{621360B7-CC01-4B0C-A8FA-19D5ADF346C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertElementInBetwNodes", "InsertElementInBetwNodes\InsertElementInBetwNodes.csproj", "{319B2AD7-5D5C-4CD5-8D56-3331A7FCBDDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{621360B7-CC01-4B0C-A8FA-19D5ADF346C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{621360B7-CC01-4B0C-A8FA-19D5ADF346C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{621360B7-CC01-4B0C-A8FA-19D5ADF346C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{319B2AD7-5D5C-4CD5-8D56-3331A7FCBDDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319B2AD7-5D5C-4CD5-8D56-3331A7FCBDDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319B2AD7-5D5C-4CD5-8D56-3331A7FCBDDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319B2AD7-5D5C-4CD5-8D56-3331A7FCBDDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
